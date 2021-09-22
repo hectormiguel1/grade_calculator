@@ -1,0 +1,1 @@
+class SectionAccordion extends StatelessWidget {}
